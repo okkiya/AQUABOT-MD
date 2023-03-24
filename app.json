@@ -8,8 +8,8 @@
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {AQUA=ApYzSJDY#Mzf6chy9WXxaa8vdeUCyKZU3j_hABMOD8zOPMg4n1fE}
-            "description": "",
+            "AQUA_SESSION": {
+            "description": "AQUA=ApYzSJDY#Mzf6chy9WXxaa8vdeUCyKZU3j_hABMOD8zOPMg4n1fE" ,
             "required": true
              },
             "NO_ONLINE": {
@@ -32,8 +32,8 @@
             "value": "true" ,    
             "required": true
              },
-             "REMOVE_BG_API_KEY": {UN5CqXp35xC2V97NPBd6Fvo5}
-            "description": "",
+             "REMOVE_BG_API_KEY": {
+            "description": "UN5CqXp35xC2V97NPBd6Fvo5" ,
             "required": true
              },
             "OWN_NAME": {
